@@ -74,20 +74,20 @@ async def _(event):
             "`Connecting To Telegram Headquarters...`",
             "`Call Connected.`",
             "`Telegram: Hello This is Telegram HQ. Who is this?`",
-            f"`Me: Yo this is` {DEFAULTUSER} ,`Please Connect me to my lil bro,Pavel Durov `",
+            f"`Me: hey this is` {DEFAULTUSER} ,`Please Connect me to my lil bro,Pavel Durov `",
             "`User Authorised.`",
-            "`Calling Shivamani `  `At +916969696969`",
+            "`Calling Spdy_parker `  `At +919845830291`",
             "`Private  Call Connected...`",
             "`Me: Hello Sir, Please Ban This Telegram Account.`",    
-            "`Shivamani : May I Know Who Is This?`",
+            "`spdy parker : May I Know Who Is This?`",
             f"`Me: Yo Brah, I Am` {DEFAULTUSER} ",
-            "`Shivamani : OMG!!! Long time no see, Wassup cat...\nI'll Make Sure That Guy Account Will Get Blocked Within 24Hrs.`",
+            "`Spdy  parker: OMG!!! Long time no see, Wassup cat...\nI'll Make Sure That Guy Account Will Get Blocked Within 24Hrs.`",
             "`Me: Thanks, See You Later Brah.`",
-            "`Shivamani : Please Don't Thank Brah, Telegram Is Our's. Just Gimme A Call When You Become Free.`",
+            "`sdy parker : Please Don't Thank Brah, Telegram Is Our's. Just Gimme A Call When You Become Free.`",
             "`Me: Is There Any Issue/Emergency???`",
-            "`Shivamani : Yes Sur, There Is A Bug In Telegram v69.6.9.\nI Am Not Able To Fix It. If Possible, Please Help Fix The Bug.`",
+            "`Spdy parker : Yes Sur, There Is A Bug In Telegram v69.6.9.\nI Am Not Able To Fix It. If Possible, Please Help Fix The Bug.`",
             "`Me: Send Me The App On My Telegram Account, I Will Fix The Bug & Send You.`",
-            "`Shivamani : Sure Sur \nTC Bye Bye :)`",
+            "`Spdy parker : Sure Sure bro  \nTC Bye Bye :)`",
             "`Private Call Disconnected.`"
         ]
     for i in animation_ttl:
@@ -115,7 +115,7 @@ async def _(event):
             "------------------>",    
             "------>;(^。^)ノ",
             "(￣ー￣) DEAD",
-            "`Targeted user killed by Headshot 😈.😈.😈.😈.😈.😈.😈......`\n '#Sad_Reacts_Online'\n",
+            "`Targeted user killed by Headshot 😈.😈.😈.😈.😈.😈.😈......`\n '#RIP_SAD_REACTION'\n",
         ]
     for i in animation_ttl:
             await asyncio.sleep(animation_interval)
