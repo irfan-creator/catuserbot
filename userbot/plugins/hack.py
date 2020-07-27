@@ -40,7 +40,7 @@ async def _(event):
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
             "`Hacking... 100%\n█████████HACKED███████████ `",
-            f"`Targeted Account Hacked...\n\nPay 69$ To` {DEFAULTUSER} . `To Remove this hack..`"
+            f"`Targeted Account Hacked...\n\ncaasu kudu ₹200 To` {DEFAULTUSER} . `To Remove this hack..`"
             ]
             for i in animation_ttl:
                 await asyncio.sleep(animation_interval)
@@ -101,7 +101,7 @@ async def _(event):
             "Hacking... 93.50%\n[█████████████████░░░]\n`Decryption successful!`\nETA: 0m, 02s",
             "Hacking... 100%\n[████████████████████]\n`Scanning file...`\nETA: 0m, 00s",
             "Hacking complete!\nUploading file...",
-            "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12`"
+            "Targeted Account Hacked...!\n\n ✔️ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12`"
 
         ]
     for i in animation_ttl:
