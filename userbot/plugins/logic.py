@@ -21,7 +21,8 @@ async def _(event):
     
     if x==1:
 
-        await event.edit("`\"Underwater bubbles and raindrops are total opposites of each other.\"`")
+        await event.edit("`\" அதிக சந்தோஷத்தை கொடுத்ததும் முகநூல்
+பல வலிகளை கொடுத்ததும் முகநூல்...\"`")
 
     if x==2:
 
